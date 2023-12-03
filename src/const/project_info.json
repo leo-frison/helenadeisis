@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Tarot",
+      "Actividad": "Sanación del cuerpo energético y mental",
+      "precio": "(30min) USD$ 4",
+      "precio1": "(45min a 1 hora) USD$ 5",
+      "precio2": "(1hr y ½ a 2 horas) USD$ 7",
+      "link": "",
+      "image": [
+        ""
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Oculomancia",
+      "Actividad": "Lectura de los ojos por fotografía",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 2,
+      "name": "Canalizaciones",
+      "Actividad": "Conexión directa con el otro lado",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 3,
+      "name": "Litomancia",
+      "Actividad": "",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 4,
+      "name": "Limpieza energética",
+      "Actividad": "",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 5,
+      "name": "Desamarre",
+      "Actividad": "",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 6,
+      "name": "Protección contra ataques energéticos",
+      "Actividad": "",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 7,
+      "name": "Magia de sigilos",
+      "Actividad": "",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 8,
+      "name": "Guía espiritual",
+      "Actividad": "",
+      "precio": "USD$ 10",
+      "link": "",
+      "image": []
+    },
+    {
+      "id": 9,
+      "name": "Armonización de parejas",
+      "Actividad": "",
+      "precio": "USD$ 9",
+      "link": "",
+      "image": []
+    }
+  ]
+}
