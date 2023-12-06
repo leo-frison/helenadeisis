@@ -2,11 +2,11 @@
   "data": [
     {
       "id": 0,
-      "name": "Tarot",
-      "Actividad": "Sanación del cuerpo energético y mental",
-      "precio": "(30min) USD$ 4",
-      "precio1": "(45min a 1 hora) USD$ 5",
-      "precio2": "(1hr y ½ a 2 horas) USD$ 7",
+      "name": "Tarot/Tarot terapéutico",
+      "Actividad": "Lecturas interpretativas con el propósito de obtener información sobre su pasado, presente, futuro o situación personal logrando una sanación del cuerpo energético y mental",
+      "precio": "(30min) .......................................................................................... USD$ 4",
+      "precio1": "(45min a 1 hora) ............................................................. USD$ 5",
+      "precio2": "(1hr y ½ a 2 horas) ..................................................... USD$ 7",
       "link": "",
       "image": [
         ""
@@ -16,7 +16,7 @@
       "id": 1,
       "name": "Oculomancia",
       "Actividad": "Lectura de los ojos por fotografía",
-      "precio": "USD$ 10",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
@@ -24,63 +24,63 @@
       "id": 2,
       "name": "Canalizaciones",
       "Actividad": "Conexión directa con el otro lado",
-      "precio": "USD$ 10",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
     {
       "id": 3,
       "name": "Litomancia",
-      "Actividad": "",
-      "precio": "USD$ 10",
+      "Actividad": "Adivinación por medio de las piedras",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
     {
       "id": 4,
       "name": "Limpieza energética",
-      "Actividad": "",
-      "precio": "USD$ 10",
+      "Actividad": "Detección de rasgos que debilitan el cuerpo energético y eliminarlos para una mejor calidad de vida y bienestar personal",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
     {
       "id": 5,
       "name": "Desamarre",
-      "Actividad": "",
-      "precio": "USD$ 10",
+      "Actividad": "Ritual y hechizo destinado a romper o deshacer amarres, ataduras o influencias mágicas que han sido colocadas sobre una persona",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
     {
       "id": 6,
       "name": "Protección contra ataques energéticos",
-      "Actividad": "",
-      "precio": "USD$ 10",
+      "Actividad": "Aplicación de prácticas, creencias o rituales destinados a preservar la energía personal y mitigar posibles influencias negativas percibidas como provenientes de factores externos, tales como energías no deseadas, malas intenciones, o presuntas fuerzas espirituales adversas",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
     {
       "id": 7,
       "name": "Magia de sigilos",
-      "Actividad": "",
-      "precio": "USD$ 10",
+      "Actividad": "Práctica mágica que se centra en la creación y uso de sigilos para manifestar intenciones o deseos",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
     {
       "id": 8,
       "name": "Guía espiritual",
-      "Actividad": "",
-      "precio": "USD$ 10",
+      "Actividad": "Orientación, apoyo y sabiduría a aquellos que buscan desarrollo personal, conexión espiritual o respuestas a preguntas existenciales",
+      "precio": ".......................................................................................... USD$ 10",
       "link": "",
       "image": []
     },
     {
       "id": 9,
       "name": "Armonización de parejas",
-      "Actividad": "",
-      "precio": "USD$ 9",
+      "Actividad": "Fortalecimiento de la armonía y la conexión emocional entre dos personas en una relación romántica.",
+      "precio": ".......................................................................................... USD$ 9",
       "link": "",
       "image": []
     }

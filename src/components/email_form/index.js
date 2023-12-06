@@ -107,7 +107,7 @@ class Email_Form extends React.Component {
                 centered
               >
               <Modal.Body className="contact_success_modal_body">
-                <Image className="contact_success_modal_img" src="https://i.ebayimg.com/images/g/ProAAOSw2spbK2lP/s-l1600.jpg" />
+                <Image className="contact_success_modal_img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQ4yd8O8RN2HmlXaYb-Zh_XCaTgq72BPl_7vP3dSvpLS6SFG4sWnuwbQIAaM9s3kY074&usqp=CAU" />
                 <h5>Gracias <span><strong>{this.state.name}</strong> su mensaje fue enviado correctamente!!</span>😇</h5>
                 <h6>Me pondre en contacto con usted a la brevedad</h6>
                 < br />

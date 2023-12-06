@@ -36,12 +36,15 @@ export default class PM extends Component {
                 </footer>
                 <br></br>
                 <footer className="blockquote-footer">
-                  Precio : <strong title="Source Title">.......................................................................................... {item.precio}</strong> <br></br>
+                  Precio 1 : <strong title="Source Title">{item.precio}</strong>
                   {item.precio1 && (
                     <>
-                      <strong title="Source Title">.............................................................. {item.precio1}</strong> <br></br>
-                      <strong title="Source Title">.................................................... {item.precio2}</strong>
+                      <br></br>
+                      Precio 2 : <strong title="Source Title">{item.precio1}</strong> <br></br>
+                      Precio 3 :<strong title="Source Title">{item.precio2}</strong>
                     </>)}
+                  <br></br>
+                    ****** Consultar precios en moneda local ******
                 </footer>
               </blockquote>
               <Card.Body>

@@ -15,11 +15,13 @@ function Home_Right() {
       <Row className="home-right-main">
         <Col xl={12}>
           <br />
-          <Image src={Foad} className="home-right-main-img" alt="Image of Hellen Morgan"/>
-        </Col>
-        <Row className="home-right-footer" >
+          <div className="circular-image-container">
+            <Image src={Foad} className="home-right-main-img" alt="Image of Hellen Morgan" />
+          </div>
+          <Row className="home-right-footer" >
           <SocialIcons />
         </Row>
+        </Col>
       </Row>
     </Container>
   );
